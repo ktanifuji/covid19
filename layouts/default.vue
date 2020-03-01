@@ -33,6 +33,9 @@
           <v-divider v-show="item.divider"></v-divider>
         </v-container>
       </v-list>
+      <v-footer fixed>
+        aaa
+      </v-footer>
     </v-navigation-drawer>
     <v-app-bar
       app
